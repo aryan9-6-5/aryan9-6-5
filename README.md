@@ -20,7 +20,7 @@ I'm a B.Tech student at Vardhaman College of Engineering, Hyderabad. I spent a f
 
 ## Where I'm learning
 
-Python, PyTorch, interpretability, data engineering, and saying "I don't know yet" out loud.
+Python, PyTorch, interpretability, data engineering, systems, and saying "I don't know yet" out loud.
 
 ## Find me
 
