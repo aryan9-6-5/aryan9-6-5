@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://portfolio-three-nu-8icujkpvzv.vercel.app/about-mascot-portrait.png" width="160" alt="Cartoon me: curly hair, glasses, blue jacket" />
 
 # hey, I'm Aryan 👋
 
