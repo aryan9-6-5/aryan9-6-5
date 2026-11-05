@@ -1,29 +1,32 @@
-# Hi, I'm Aryan
+<div align="center">
 
-I like figuring out why things work. Lately that means asking why a model gave the answer it gave, and whether I should trust it.
+<img src="https://portfolio-three-nu-8icujkpvzv.vercel.app/about-mascot-portrait.png" width="160" alt="Cartoon me: curly hair, glasses, blue jacket" />
 
-I'm a B.Tech student at Vardhaman College of Engineering, Hyderabad. I spent a few months at MassMutual India building anomaly detection and ETL pipelines on insurance data, and I'm now looking for my first full-time role in AI/ML or data engineering.
+# hey, I'm Aryan 👋
 
-## What I'm working on
+**Hyderabad · AI/ML · curious about how things actually work**
 
-- **A 7-day probing study on GPT-2.** Does the model carry any internal signal that an answer is wrong? Short version: not beyond what the type of question already tells you. I posted every day, including the day I found my own labels were off. Write-up coming.
-- **Explainable retinal disease classification.** My first conference paper, presented at IEEE ICNPCV 2026.
+</div>
 
-## Things I've built
+---
 
-| Project | What it is |
-|---|---|
-| [End-to-End-Data-Pipeline-Automation](https://github.com/aryan9-6-5/End-to-End-Data-Pipeline-Automation) | Airflow, PostgreSQL and Docker ETL across 11 Parquet sources |
-| [VitalWatch](https://github.com/aryan9-6-5/VitalWatch) | Patient monitoring with a multi-agent pipeline and an ML risk engine |
-| [NexusMart](https://github.com/aryan9-6-5/NexusMart) | Retail analytics on 31M+ transactions with DuckDB and Polars, on a laptop |
-| [fintrack](https://github.com/aryan9-6-5/fintrack) | Finance REST API in Spring Boot with JWT auth and fraud detection, on AWS |
+I like knowing why something works, not just that it does. Most of what I get excited about starts with a question I can't leave alone, and ends with me reading far more than I planned to.
 
-## Where I'm learning
+I'm a computer science student who ended up in AI and ML, and I'm still happy to say "I don't know yet" out loud. It tends to be the first step toward finding out.
 
-Python, PyTorch, interpretability, data engineering, systems, and saying "I don't know yet" out loud.
+## what I'm into
 
-## Find me
+🧠 Understanding models, not just using them
+🛠️ Building things that survive contact with real users
+📚 Learning in public, mistakes included
+🏏 Cricket, and strong opinions about how Game of Thrones ended
 
-[Portfolio](https://portfolio-three-nu-8icujkpvzv.vercel.app) · [LinkedIn](https://www.linkedin.com/in/aryan965/)
+## what I reach for
 
-If you work on interpretability or applied ML, I'd like to hear how you got started.
+<img src="https://skillicons.dev/icons?i=python,pytorch,java,fastapi,postgres,docker,aws,react,ts&perline=9" alt="Python, PyTorch, Java, FastAPI, Postgres, Docker, AWS, React, TypeScript" />
+
+## say hi
+
+[**portfolio**](https://portfolio-three-nu-8icujkpvzv.vercel.app) · [**linkedin**](https://www.linkedin.com/in/aryan965/)
+
+If you're into ML, interpretability or just good software, tell me how you got into it. I'm always curious.
