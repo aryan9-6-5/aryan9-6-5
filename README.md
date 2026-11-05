@@ -15,10 +15,10 @@ I'm a computer science student who ended up in AI and ML, and I'm still happy to
 
 ## what I'm into
 
-🧠 Understanding models, not just using them
-🛠️ Building things that survive contact with real users
-📚 Learning in public, mistakes included
-🏏 Cricket, and strong opinions about how Game of Thrones ended
+ Understanding models, not just using them
+ Building things that survive contact with real users
+ Learning in public, mistakes included
+ Cricket, and strong opinions about how Game of Thrones ended
 
 ## what I reach for
 
